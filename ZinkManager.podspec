@@ -9,5 +9,5 @@ s.source = { :git => "https://github.com/zinkLin/ZinkManager", :tag => "1.0.0"}
 s.requires_arc = true
 s.ios.deployment_target = '7.0'
 s.source_files = "ZinkManager/*"
-s.dependency 'ZinkAlertActionSheet'
+s.dependency 'MBProgressHUD'
 end
